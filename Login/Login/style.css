@@ -1,0 +1,23 @@
+html
+{
+    background-color: rgb(70, 70, 70);
+}
+div
+{
+    color:white;
+    background: linear-gradient(white, gray,black); 
+    height: 250px; 
+}
+h1
+{
+    color: black;
+}
+input
+{
+    height: auto;
+    border-radius: 40px;
+}
+input:hover
+{
+    cursor: pointer;
+}
